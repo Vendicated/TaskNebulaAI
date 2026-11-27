@@ -23,6 +23,6 @@ Here's what I learned building it:
 Agree? 👇
 
 Try it, break it, and tell me your Executive Dolphin pull rate:
-https://petroleum-sip-rachel-diffs.trycloudflare.com/
+https://vendicated.github.io/TaskNebulaAI/
 
 #BuildInPublic #WebDev #Cloudflare #SideProject #Productivity #Leadership #Grateful
